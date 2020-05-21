@@ -1,2 +1,5 @@
 # hello-world
-Just Another Repository
+
+Hai Humans!
+
+Ajay here, I like Python and Web Designing(that's why i made of!).
